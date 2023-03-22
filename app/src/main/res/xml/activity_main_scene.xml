@@ -17,7 +17,8 @@
             android:layout_width="match_parent"
             android:layout_height="320dp"
             app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintStart_toStartOf="parent" />
+            app:layout_constraintStart_toStartOf="parent"
+            android:visibility="gone"/>
     </ConstraintSet>
 
     <ConstraintSet android:id="@+id/end">
